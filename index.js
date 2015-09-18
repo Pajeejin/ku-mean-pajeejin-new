@@ -1,1 +1,1 @@
-exports.name = "Pajeejin";
+exports.name = "Pajeejin Kosathong";
